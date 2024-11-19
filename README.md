@@ -4,30 +4,40 @@ Welcome to my project portfolio! This repository contains a collection of my pro
 
 ## Table of Contents
 
-1. [Project 1: Numerical Neural Network.ipynb](./Project_1/)
-2. [Project 2: Title](./Project_2/)
+1. [Digit Classification Neural Network from Scratch](URL)
+2. [Project 2: Title](./https://github.com/LeoSesuraj/Personal-Projects1/blob/main/Numerical%20Neural%20Network.ipynb/)
 3. [Project 3: Title](./Project_3/)
 
 ---
 
 ## About
 
-This repository is a hub for my projects. Each folder contains:
+This repository is a hub for my projects containing:
 - A detailed project description.
 - Code and resources.
-- Instructions for setup and usage.
 
 ## Projects Overview
 
 ### [1. Project 1: Title](./Project_1/)
-- **Project Description:**
-This project implements a neural network to classify handwritten digits from the MNIST dataset. It preprocesses data by normalizing and flattening image features, and utilizes machine learning techniques for training and evaluation. A live number display feature is also included to visualize input data.
-- **Key Features:** Python Programming: Core language for data processing and algorithm implementation.
-Machine Learning: Neural network creation and training.
-Data Preprocessing: Normalization and reshaping of datasets.
-Deep Learning Frameworks: TensorFlow/Keras for neural network operations.
-Data Visualization: Matplotlib for visualizing digit samples.
-- **Tech Stack:** List the technologies used.
+# **Digit Classification - Neural Network from Scratch**
+
+This project implements a fully functional neural network from scratch using Python and NumPy, with no reliance on external deep learning libraries. The model is trained on the MNIST dataset to classify handwritten digits, demonstrating foundational concepts in machine learning and deep learning.
+
+---
+
+## **Key Features**
+- Three-layer neural network: Input, two hidden layers, and an output layer.
+- Activation functions: ReLU and Softmax.
+- Training using mini-batch gradient descent.
+- Complete implementation of forward propagation, backpropagation, and parameter updates.
+
+---
+
+## **Objectives**
+- Gain an in-depth understanding of neural network mechanics by coding one from scratch.
+- Learn to preprocess image data and apply mathematical operations for learning.
+- Visualize the training process and performance metrics.
+
 
 ### [2. Project 2: Title](./Project_2/)
 - **Description:** Brief summary of the project.
