@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Welcome to my project portfolio! This repository contains a collection of my projects, showcasing my skills and interests in [your domain, e.g., computer engineering, AI, web development]. Feel free to explore and reach out if you have any questions!
+Welcome to my project portfolio! This repository contains a collection of my projects, showcasing my skills and interests in AI and ML programming. Feel free to explore and reach out if you have any questions!
 
 ## Table of Contents
 
@@ -54,6 +54,4 @@ This project implements a fully functional neural network from scratch using Pyt
 ## Contact
 
 For any questions or collaboration opportunities, feel free to reach out:
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
+- **LinkedIn:** [Leonel Sesuraj: ](https://www.linkedin.com/in/leonelsesuraj/)
