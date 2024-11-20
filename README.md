@@ -4,8 +4,8 @@ Welcome to my project portfolio! This repository contains a collection of my pro
 
 ## Table of Contents
 
-1. [Digit Classification Neural Network from Scratch](URL)
-2. [Project 2: Title](./https://github.com/LeoSesuraj/Personal-Projects1/blob/main/Numerical%20Neural%20Network.ipynb/)
+1. [Digit Classification Neural Network from Scratch](https://github.com/LeoSesuraj/Personal-Projects1/blob/main/Numerical%20Neural%20Network.ipynb)
+2. [Project 2: Title]()
 3. [Project 3: Title](./Project_3/)
 
 ---
