@@ -18,7 +18,7 @@ This repository is a hub for my projects containing:
 
 ## Projects Overview
 
-# **Digit Classification - Neural Network from Scratch**
+# **1. Digit Classification - Neural Network from Scratch**
 
 This project implements a fully functional neural network from scratch using Python and NumPy, with no reliance on external deep learning libraries. The model is trained on the MNIST dataset to classify handwritten digits, demonstrating foundational concepts in machine learning and deep learning.
 
@@ -38,7 +38,7 @@ This project implements a fully functional neural network from scratch using Pyt
 - Visualize the training process and performance metrics.
 
 
-# **Cellphone Price Prediction - Random Forest Regressor**
+# **2. Cellphone Price Prediction - Random Forest Regressor**
 
 This project demonstrates the use of a Random Forest Regressor to predict cellphone prices based on various features like brand, specifications, and other characteristics. The model is trained on a real-world dataset and evaluated using key regression metrics to understand its predictive accuracy.
 
