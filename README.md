@@ -6,7 +6,7 @@ Welcome to my project portfolio! This repository contains a collection of my pro
 
 1. [Digit Classification Neural Network from Scratch](https://github.com/LeoSesuraj/Personal-Projects1/blob/main/Numerical%20Neural%20Network.ipynb)
 2. [Machine Learning Smart Phone Price Prediction](https://github.com/LeoSesuraj/Personal-Projects1/blob/main/ML-%20Smartphone%20Price%20Prediction.ipynb)
-3. [Project 3: Title](./Project_3/)
+<!-- 3. [Project 3: Title](./Project_3/)
 
 ---
 
@@ -58,14 +58,14 @@ This project demonstrates the use of a Random Forest Regressor to predict cellph
 - Apply visualization techniques to understand data relationships and model performance.
 - Evaluate model performance using common regression metrics and interpret results.
 
-### [3. Project 3: Title](./Project_3/)
-- **Description:** Brief summary of the project.
-- **Key Features:** Highlight a few core features.
-- **Tech Stack:** List the technologies used.
+<!-- ### [3. Project 3: Title](./Project_3/)
+<!-- - **Description:** Brief summary of the project.
+<!-- - **Key Features:** Highlight a few core features.
+<!-- - **Tech Stack:** List the technologies used.
 
 ---
 
 ## Contact
 
 For any questions or collaboration opportunities, feel free to reach out:
-- **LinkedIn:** [Leonel Sesuraj: ](https://www.linkedin.com/in/leonelsesuraj/)
+- **LinkedIn:** [Leonel Sesuraj](https://www.linkedin.com/in/leonelsesuraj/)
