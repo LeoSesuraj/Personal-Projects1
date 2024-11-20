@@ -18,7 +18,6 @@ This repository is a hub for my projects containing:
 
 ## Projects Overview
 
-### [1. Project 1: Title](./Project_1/)
 # **Digit Classification - Neural Network from Scratch**
 
 This project implements a fully functional neural network from scratch using Python and NumPy, with no reliance on external deep learning libraries. The model is trained on the MNIST dataset to classify handwritten digits, demonstrating foundational concepts in machine learning and deep learning.
